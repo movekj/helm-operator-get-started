@@ -14,5 +14,5 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: harbor.ops.xunhuji.me:8880/gitops/podinfo:0.4.15
+    image: harbor.ops.xunhuji.me:8880/gitops/podinfo:0.4.16
     replicaCount: 3
